@@ -8,4 +8,4 @@ How to setup
 
 Feel free to create an issue or google/chatgpt if you get an error while setting up
 
- 
+ ,,
